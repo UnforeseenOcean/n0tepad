@@ -15,6 +15,8 @@
         If you like how this works, try it with whatever hex or (binary / unicode capable) text 
         editor.
         <br /><br />
+        Released under <a href="http://www.gnu.org/licenses/gpl-3.0.html">GNU GPL 3.0</a>. Project is <a href="https://github.com/rottytooth/n0tepad">on github here</a>.
+        <br /><br />
         <a href="/Tutorials">Tutorials for other glitch techniques here.</a>
     </p>
     <br /><br />
