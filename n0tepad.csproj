@@ -56,6 +56,7 @@
     <Content Include="Eula.txt" />
     <Content Include="ImageGenerator.aspx" />
     <Content Include="ImageOutput.aspx" />
+    <Content Include="README.txt" />
     <Content Include="SampleImages.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="TextEditor.aspx" />
